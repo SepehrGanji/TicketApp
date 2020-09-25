@@ -1,0 +1,9 @@
+﻿  ticket_app.cpp
+d:\ticket_app\ticket_app\ticket_app\ticket_app.cpp(1236): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\ticket_app\ticket_app\ticket_app\ticket_app.cpp(1242): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\ticket_app\ticket_app\ticket_app\ticket_app.cpp(1321): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\ticket_app\ticket_app\ticket_app\ticket_app.cpp(1435): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  All 109 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ticket_app.vcxproj -> D:\ticket_app\ticket_app\x64\Release\ticket_app.exe

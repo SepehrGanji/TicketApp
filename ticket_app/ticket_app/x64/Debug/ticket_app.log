@@ -1,0 +1,8 @@
+﻿  ticket_app.cpp
+d:\ticket_app\ticket_app\ticket_app\ticket_app.cpp(1236): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\ticket_app\ticket_app\ticket_app\ticket_app.cpp(1242): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\ticket_app\ticket_app\ticket_app\ticket_app.cpp(1321): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\ticket_app\ticket_app\ticket_app\ticket_app.cpp(1357): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 9 has type 'const char *'
+d:\ticket_app\ticket_app\ticket_app\ticket_app.cpp(1357): warning C4313: 'fprintf': '%c' in format string conflicts with argument 9 of type 'const char *'
+d:\ticket_app\ticket_app\ticket_app\ticket_app.cpp(1435): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  ticket_app.vcxproj -> D:\ticket_app\ticket_app\x64\Debug\ticket_app.exe
