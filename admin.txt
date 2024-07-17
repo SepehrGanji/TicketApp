@@ -1,2 +1,2 @@
-username : admin
-pass : 123
+username : YOUR_USER_NAME
+pass : YOUR_PASSWD
